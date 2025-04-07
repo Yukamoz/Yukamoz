@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ... literally any project like for mods or mod managers or small games (PLEASE CONTACT ME)
 - 📫 How to reach me ... message me on discord, my username is yukamoz
 - 😄 Pronouns: ... she/her (mtf)
-- ⚡ Fun fact: ... i am a nerd, i also mastered the c# coding language
+- ⚡ Fun fact: ... i'm kind of a nerd, i know c#, i make games and mods, thats it
 
 <!---
 Yukamoz/Yukamoz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
