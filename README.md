@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ... finishing learning .lua
 - 💞️ I’m looking to collaborate on ... literally any project like for mods or mod managers or small games (PLEASE CONTACT ME)
 - 📫 How to reach me ... message me on discord, my username is yukamoz
-- 😄 Pronouns: ... they/them
+- 😄 Pronouns: ... she/her (mtf)
 - ⚡ Fun fact: ... i am a nerd, i also mastered the c# coding language
 
 <!---
